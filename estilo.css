@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(0, 153, 255);
+    font-family: monospace
+}
+h1 {
+    text-align: center;
+    letter-spacing: 12px;
+}
+h2 {
+    background-color: grey;
+    color: white;
+}
+.libro > p{
+    display: none;
+}
